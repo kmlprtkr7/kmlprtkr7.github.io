@@ -1,0 +1,62 @@
+[
+  {
+    "ifsc": "ADCB0000002",
+    "bank_id": 143,
+    "branch": "BANGALORE",
+    "address": "CITI CENTRE, 28, CHURCH STREET, OFF M. G. ROAD BANGALORE 560001",
+    "city": "BANGALORE",
+    "district": "BANGALORE URBAN",
+    "state": "KARNATAKA",
+    "bank_name": "ABU DHABI COMMERCIAL BANK"
+  },
+  {
+    "ifsc": "ABNA0100318",
+    "bank_id": 110,
+    "branch": "BANGALORE",
+    "address": "PRESTIGE TOWERS', GROUND FLOOR, 99 & 100, RESIDENCY ROAD, BANGALORE 560 025.",
+    "city": "BANGALORE",
+    "district": "BANGALORE URBAN",
+    "state": "KARNATAKA",
+    "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+  },
+  {
+    "ifsc": "ALLA0210217",
+    "bank_id": 11,
+    "branch": "K. G. ROAD",
+    "address": "NO. 2, FKCCI BUILDING , K G ROAD , BANGALORE",
+    "city": "BANGALORE",
+    "district": "BANGALORE URBAN",
+    "state": "KARNATAKA",
+    "bank_name": "ALLAHABAD BANK"
+  },
+  {
+    "ifsc": "ALLA0210326",
+    "bank_id": 11,
+    "branch": "BANGALORE BASAVANGUDI",
+    "address": "121, RM COMPLEX, DR.D.V.GUNDAPPA ROAD, BASAVANGUDI, BANGALORE - 560004",
+    "city": "BANGALORE",
+    "district": "BANGALORE URBAN",
+    "state": "KARNATAKA",
+    "bank_name": "ALLAHABAD BANK"
+  },
+  {
+    "ifsc": "ALLA0211155",
+    "bank_id": 11,
+    "branch": "BANGALORE TASKER TOWN",
+    "address": "180, SHIVAJI ROAD, SHIVAJI NAGAR, BANGALORE - 560051",
+    "city": "BANGALORE",
+    "district": "BANGALORE URBAN",
+    "state": "KARNATAKA",
+    "bank_name": "ALLAHABAD BANK"
+  },
+  {
+    "ifsc": "ALLA0212011",
+    "bank_id": 11,
+    "branch": "BANGALORE HANUMANTHNAGAR",
+    "address": "BMS ENGG. COLLEGE CAMPUS, HANUMANTHNAGAR, BANGALORE KARNATAKA560019",
+    "city": "BANGALORE",
+    "district": "BANGALORE URBAN",
+    "state": "KARNATAKA",
+    "bank_name": "ALLAHABAD BANK"
+  }
+]
